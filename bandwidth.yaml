@@ -1,0 +1,7 @@
+#time (seconds) interval for bandwidth calculation (eg: 60)
+interval : 5
+
+#interface to monitor the bandwidth (eg: eth0)
+interface : eth0
+
+
