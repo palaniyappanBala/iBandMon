@@ -14,7 +14,7 @@ try:
 except:
 	print "linux_metrics, package not found"
 	print "pip install linux_metrics"
-	return
+	exit(0)
 
 class Config():
 	def parse(self):
